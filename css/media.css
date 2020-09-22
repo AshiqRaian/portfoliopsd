@@ -1,0 +1,617 @@
+@media (max-width: 1399px){
+	.about .container-fluid .row .col-xl-5 .about-img img {
+    	height: 600px;
+    }
+    .about .heading .line{
+    	margin: 10px auto 4%;
+    }
+    .about .container-fluid .row .col-xl-7 .about-content p {
+      	font-size: 18px; 
+  	}	
+  	.about .container-fluid .row .col-xl-7 .about-content .bar p {
+      	font-size: 18px;
+      	margin: 0; 
+  	}
+    .about .container-fluid .row .col-xl-7 .about-content {
+    	padding: 0 45px; 
+    }
+    .carousel .carousel-inner .carousel-item .carousel-caption h5 {
+   	 	font-size: 60px;
+   	}	
+  	.carousel .carousel-inner .carousel-item .carousel-caption p {
+    	font-size: 58px;
+   	}
+   	.carousel .carousel-inner .carousel-item .carousel-caption .start .btn {
+      	font-size: 18px;
+      	margin-left: 9px !important;
+      	margin-right: 9px !important;
+  	}
+  	.service .container .row .col-xl-3 .car {
+  		padding: 30px 18px;
+	}
+	.service .container .row .col-xl-3 .car h2 {
+        margin: 30px 0;
+        font-size: 20px;
+  	}
+  	.recent .container .row .post .story .col-xl-5 div img {
+        height: 300px;
+  	}
+  	.recent .container .row .post .story .col-xl-6 p {
+    	font-size: 17px;
+	}
+	.life .container-fluid .row .col-xl-6 div .heading {
+		margin: 0 0 30px 0;
+	}
+	.life .container-fluid .row .col-xl-6 div .heading h1 {
+		font-size: 41px;
+	}
+	.life .container-fluid .row .col-xl-6 div p {
+    font-size: 17px;
+	}
+}
+
+@media (max-width: 1199px){
+
+	.heading h1{
+		font-size: 40px;
+	}
+	.carousel .carousel-inner .carousel-item .carousel-caption h5 {
+   	 	font-size: 50px;
+   	}	
+  	.carousel .carousel-inner .carousel-item .carousel-caption p {
+    	font-size: 48px;
+   	}
+   	.carousel .carousel-inner .carousel-item .carousel-caption .start .btn {
+      	font-size: 17px;
+      	margin-left: 8px !important;
+      	margin-right: 8px !important;
+      	padding-left: 20px !important;
+    	padding-right: 20px !important
+  	}
+
+
+  	.about .container-fluid .row .col-xl-5 .about-img img {
+    	height: 525px;
+    }
+    .about .heading h1{
+    	font-size: 38px
+    }
+    .about .heading .line{
+    	margin: 7px auto 3%;
+    }
+    .about .container-fluid .row .col-xl-7 .about-content p {
+      	font-size: 16px; 
+  	}	
+  	.about .container-fluid .row .col-xl-7 .about-content .bar p {
+      	font-size: 18px;
+      	margin: 0; 
+  	}
+    .about .container-fluid .row .col-xl-7 .about-content {
+    	padding: 0 7px; 
+    }
+    .about .container-fluid .row .col-xl-7 .about-content .bar .row .percent {
+        font-size: 17px;
+        height: 25px;
+        line-height: 25px;
+        width: 50px;
+    }
+    .about .container-fluid .row .col-xl-7 .about-content .bar .row .percent::after {
+          left: -13px;
+          top: 13px;
+    }
+
+    .service .container .row .col-xl-3 {
+  		padding: 10px 7px;
+  	}
+  	.service .container .row .col-xl-3 .car {
+  		padding: 10px 7px;
+  	}
+  	.service .container .row .col-xl-3 .car i {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        margin: 15px auto 0;
+    }
+    .service .container .row .col-xl-3 .car i::before {
+        font-size: 22px; 
+    }
+    .service .container .row .col-xl-3 .car h2 {
+     	margin: 28px 0;
+     }
+    .service .container .row .col-xl-3 .car p {
+    	font-size: 18px;
+    }
+
+    .statistic .container .row .col-xl .stat p{
+    	font-size: 21px;
+    }
+    .work .container-fluid .row .col-xl-4, .work .container-fluid .row .col-xl-3 {
+    	padding: 7px;
+	}
+    .work .container-fluid .row .col-xl-4 .prime .hp, .work .container-fluid .row .col-xl-3 .prime .hp {
+        padding: 3px 0 0 7px;
+    }
+    .work .container-fluid .row .col-xl-4 .prime .hp h5, .work .container-fluid .row .col-xl-3 .prime .hp h5 {
+    	font-size: 16px;
+    	margin:0;	        
+    }
+    .work .container-fluid .row .col-xl-4 .prime .hp p, .work .container-fluid .row .col-xl-3 .prime .hp p {
+    	font-size: 16px;
+    	margin:0;	        
+    }
+    .work .container-fluid .row .col-xl-4 .prime a i, .work .container-fluid .row .col-xl-3 .prime a i {
+          height: 40px;
+          width: 40px;
+          line-height: 40px;
+    }
+    .work .container-fluid .row .col-xl-4 .prime a i::before, .work .container-fluid .row .col-xl-3 .prime a i::before {
+         font-size: 20px; 
+     }
+
+
+	.recent .container .row .post .story {
+	    margin: 0 1%;
+	}
+	.recent .container .row .post .story .col-xl-6 {
+    	margin: 0;
+	}
+	.recent .container .row .post .story .col-xl-6 p {
+    	font-size: 17px;
+    }
+    .recent .container .row .post .story .col-xl-6 h5 {
+    	font-size: 18px;
+    	margin: 11px 0 17px 0;
+    }
+    .recent .container .row .post .story .col-xl-6 button {
+        padding: 7px 13px;
+        font-size: 16px;
+    }
+
+
+    .life .container-fluid .row .col-xl-6 div {
+      margin-left: 20px;
+  	}
+    .life .container-fluid .row .col-xl-6 div .heading {
+		margin: 0 0 20px 0;
+	}
+	.life .container-fluid .row .col-xl-6 div .heading h1 {
+		font-size: 38px;
+	}
+	.life .container-fluid .row .col-xl-6 div p {
+    	font-size: 16px;
+	}
+	.life .container-fluid .row .col-xl-5 div img {
+    	height: 390px
+	}
+
+	.tweet .container p {
+		font-size: 17px;
+	}
+
+	.touch .container p {
+    	font-size: 17px;
+    }
+
+}
+@media (max-width: 991px){
+
+	.navbar-nav{
+		flex-direction: row;
+		justify-content: center;
+	}
+	nav .dropdown{
+		display: none;
+	}
+	.navbar{
+		padding-top: 10px !important;
+		padding-bottom: 10px !important;
+	}
+	.about .container-fluid .row .col-xl-5{
+		margin: 2% auto 0;
+	}
+	.about .container-fluid .row .col-xl-5 .about-img img {
+    	height: 100% !important;
+    }
+
+
+
+
+	.heading h1{
+		font-size: 35px;
+	}
+	.carousel .carousel-inner .carousel-item .carousel-caption{
+		display: block !important;
+	}
+	.carousel .carousel-inner .carousel-item .carousel-caption h5 {
+   	 	font-size: 40px;
+   	}	
+  	.carousel .carousel-inner .carousel-item .carousel-caption p {
+    	font-size: 37px;
+   	}
+   	.carousel .carousel-inner .carousel-item .carousel-caption .start .btn {
+      	font-size: 16px;
+      	margin-left: 5px !important;
+      	margin-right: 5px !important;
+      	padding-left: 8px !important;
+    	padding-right: 8px !important
+  	}
+
+
+  	.about .container-fluid .row .col-xl-5 .about-img img {
+    	height: 525px;
+    }
+    .about .heading h1{
+    	font-size: 38px
+    }
+    .about .heading .line{
+    	margin: 7px auto 3%;
+    }
+    .about .container-fluid .row .col-xl-7 .about-content p {
+      	font-size: 16px; 
+  	}	
+  	.about .container-fluid .row .col-xl-7 .about-content .bar p {
+      	font-size: 18px;
+      	margin: 0; 
+  	}
+    .about .container-fluid .row .col-xl-7 .about-content {
+    	padding: 0 7px; 
+    }
+    .about .container-fluid .row .col-xl-7 .about-content .bar .row .percent {
+        font-size: 17px;
+        height: 25px;
+        line-height: 25px;
+        width: 50px;
+    }
+    .about .container-fluid .row .col-xl-7 .about-content .bar .row .percent::after {
+          left: -13px;
+          top: 13px;
+    }
+
+    .service .container .row .col-xl-3 {
+  		padding: 10px 5px;
+  	}
+  	.service .container .row .col-xl-3 .car {
+  		padding: 10px 5px;
+  	}
+  	.service .container .row .col-xl-3 .car i {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        margin: 15px auto 0;
+    }
+    .service .container .row .col-xl-3 .car i::before {
+        font-size: 22px; 
+    }
+    .service .container .row .col-xl-3 .car h2 {
+     	margin: 28px 0;
+     }
+    .service .container .row .col-xl-3 .car p {
+    	font-size: 18px;
+    }
+
+    .statistic .container .row .col-xl .stat p{
+    	font-size: 19px;
+    }
+    .work .container-fluid .row .col-xl-4, .work .container-fluid .row .col-xl-3 {
+    	padding: 7px;
+	}
+    .work .container-fluid .row .col-xl-4 .prime .hp, .work .container-fluid .row .col-xl-3 .prime .hp {
+        padding: 3px 0 0 7px;
+    }
+    .work .container-fluid .row .col-xl-4 .prime .hp h5, .work .container-fluid .row .col-xl-3 .prime .hp h5 {
+    	font-size: 16px;
+    	margin:0;	        
+    }
+    .work .container-fluid .row .col-xl-4 .prime .hp p, .work .container-fluid .row .col-xl-3 .prime .hp p {
+    	font-size: 16px;
+    	margin:0;	        
+    }
+    .work .container-fluid .row .col-xl-4 .prime a i, .work .container-fluid .row .col-xl-3 .prime a i {
+          height: 40px;
+          width: 40px;
+          line-height: 40px;
+    }
+    .work .container-fluid .row .col-xl-4 .prime a i::before, .work .container-fluid .row .col-xl-3 .prime a i::before {
+         font-size: 20px; 
+     }
+
+
+	.recent .container .row .post .story {
+	    margin: 0 1%;
+	}
+	.recent .container .row .post .story .col-xl-6 {
+    	margin: 0;
+	}
+	.recent .container .row .post .story .col-xl-6 p {
+    	font-size: 17px;
+    }
+    .recent .container .row .post .story .col-xl-6 h5 {
+    	font-size: 18px;
+    	margin: 11px 0 17px 0;
+    }
+    .recent .container .row .post .story .col-xl-6 button {
+        padding: 7px 13px;
+        font-size: 16px;
+    }
+
+    .life {
+  		padding: 50px 25px;
+  	}
+    .life .container-fluid .row .col-xl-6 div {
+      margin-left: 15px;
+  	}
+    .life .container-fluid .row .col-xl-6 div .heading {
+		margin: 0 0 18px 0;
+	}
+	.life .container-fluid .row .col-xl-6 div .heading h1 {
+		font-size: 29px;
+	}
+	.life .container-fluid .row .col-xl-6 div p {
+    	font-size: 15px;
+	}
+	.life .container-fluid .row .col-xl-5 div img {
+    	height: 370px
+	}
+	.feedback .container .col-xl-5 ul li img {
+    	margin: 0 30px 0 20px;
+	}
+	.feedback .container .col-xl-5 div::after {
+		left: 50px;
+	}
+	.tweet .container p {
+		font-size: 17px;
+		padding: 0 10%;
+	}
+
+	.touch .container p {
+    	font-size: 17px;
+    }
+    nav .navbar-nav .nav-item .nav-link {
+    	padding: 5px 0 !important;
+    }
+}
+@media (max-width: 767px){
+	nav .navbar-nav .nav-item {
+    padding-left: 2px !important;
+    padding-right: 2px !important;
+	}
+
+	.heading h1{
+		font-size: 30px;
+	}
+	.carousel .carousel-inner .carousel-item .carousel-caption{
+		display: block !important;
+	}
+	.carousel .carousel-inner .carousel-item .carousel-caption h5 {
+   	 	font-size: 30px;
+   	}	
+  	.carousel .carousel-inner .carousel-item .carousel-caption p {
+    	font-size: 27px;
+   	}
+   	.carousel .carousel-inner .carousel-item .carousel-caption .start{
+   		width: 60%;
+   	}
+   	.carousel .carousel-inner .carousel-item .carousel-caption .start .btn {
+      	font-size: 14px;
+      	margin-left: 5px !important;
+      	margin-right: 5px !important;
+      	padding-left: 5px !important;
+    	padding-right: 5px !important;
+  	}
+
+
+  	.about .container-fluid .row .col-xl-5 .about-img img {
+    	height: 525px;
+    }
+    .about .heading h1{
+    	font-size: 38px
+    }
+    .about .heading .line{
+    	margin: 7px auto 3%;
+    }
+    .about .container-fluid .row .col-xl-7 .about-content p {
+      	font-size: 16px; 
+  	}	
+  	.about .container-fluid .row .col-xl-7 .about-content .bar p {
+      	font-size: 18px;
+      	margin: 0; 
+  	}
+    .about .container-fluid .row .col-xl-7 .about-content {
+    	padding: 0 7px; 
+    }
+    .about .container-fluid .row .col-xl-7 .about-content .bar .row .percent {
+        font-size: 17px;
+        height: 25px;
+        line-height: 25px;
+        width: 50px;
+    }
+    .about .container-fluid .row .col-xl-7 .about-content .bar .row .percent::after {
+          left: -13px;
+          top: 13px;
+    }
+
+    .service .container .row .col-xl-3 {
+  		padding: 10px 5px;
+  	}
+  	.service .container .row .col-xl-3 .car {
+  		padding: 10px 5px;
+  	}
+  	.service .container .row .col-xl-3 .car i {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        margin: 15px auto 0;
+    }
+    .service .container .row .col-xl-3 .car i::before {
+        font-size: 22px; 
+    }
+    .service .container .row .col-xl-3 .car h2 {
+     	margin: 28px 0;
+     }
+    .service .container .row .col-xl-3 .car p {
+    	font-size: 18px;
+    }
+
+    .statistic .container .row .col-xl .stat p{
+    	font-size: 17px;
+    }
+    .statistic .container .row .col-xl .stat h3{
+    	font-size: 30px;
+    }
+    .statistic .container .row .col-xl .stat i {
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+    }
+    .statistic .container .row .col-xl .stat i::before {
+        font-size: 25px;
+    }
+    .tweet .container p {
+     margin: 5% 0;
+
+    .work .container-fluid ul li button {
+    	font-size: 16px;
+    	padding: 13px 15px;
+    }
+    .work .container-fluid .row .col-xl-4, .work .container-fluid .row .col-xl-3 {
+    	padding: 7px;
+	}
+    .work .container-fluid .row .col-xl-4 .prime .hp, .work .container-fluid .row .col-xl-3 .prime .hp {
+        padding: 3px 0 0 7px;
+    }
+    .work .container-fluid .row .col-xl-4 .prime .hp h5, .work .container-fluid .row .col-xl-3 .prime .hp h5 {
+    	font-size: 16px;
+    	margin:0;	        
+    }
+    .work .container-fluid .row .col-xl-4 .prime .hp p, .work .container-fluid .row .col-xl-3 .prime .hp p {
+    	font-size: 16px;
+    	margin:0;	        
+    }
+    .work .container-fluid .row .col-xl-4 .prime a i, .work .container-fluid .row .col-xl-3 .prime a i {
+          height: 40px;
+          width: 40px;
+          line-height: 40px;
+    }
+    .work .container-fluid .row .col-xl-4 .prime a i::before, .work .container-fluid .row .col-xl-3 .prime a i::before {
+         font-size: 20px; 
+     }
+
+
+	.recent .container .row .post .story {
+	    margin: 0 1%;
+	}
+	.recent .container .row .post .story .col-xl-6 {
+    	margin: 0;
+	}
+	.recent .container .row .post .story .col-xl-6 p {
+    	font-size: 17px;
+    }
+    .recent .container .row .post .story .col-xl-6 h5 {
+    	font-size: 18px;
+    	margin: 11px 0 17px 0;
+    }
+    .recent .container .row .post .story .col-xl-6 button {
+        padding: 7px 13px;
+        font-size: 16px;
+    }
+    .life .container-fluid .row .col-xl-5 div img {
+    margin: 0 !important;
+	}
+	.life .container-fluid .row .col-xl-5{
+      text-align: center;
+  	}
+    
+	.map .container-fluid address p {
+      font-size: 18px;
+  	}
+	.touch .container p {
+    	font-size: 17px;
+    }
+   
+}
+@media (max-width: 575px){
+	.navbar-nav{
+		flex-direction: column;
+		align-items: center;
+	}
+	section{
+		padding: 0% !important;
+		margin: 5% 0;
+	}
+	.heading h1{
+		font-size: 25px;
+	}
+	.carousel .carousel-inner .carousel-item .carousel-caption h5 {
+   	 	font-size: 17px;
+   	}	
+  	.carousel .carousel-inner .carousel-item .carousel-caption p {
+    	font-size: 14px;
+   	}
+   	.carousel .carousel-inner .carousel-item .carousel-caption .start {
+	    top: 100%;
+	    width: 95%;
+	}
+	.carousel .carousel-inner .carousel-item .carousel-caption .start .btn {
+		padding: 0 !important;
+		margin: 0;
+		font-size: 12px;
+	}
+	.service .container .row .col-xl-3 .car h2 {
+    	margin: 8px 0;
+    	font-size: 16px;
+    }
+    .service .container .row .col-xl-3 .car p {
+    	font-size: 14px;
+    }
+	.life .container-fluid .row .col-xl-6 div .heading h1 {
+		font-size: 27px;
+	}
+	.life .container-fluid .row .col-xl-5 div img {
+      margin: 0;
+      height: 300px;
+  	}
+  	.statistic .container .row .col-xl .stat h3 {
+    font-size: 20px;
+	}
+	.statistic .container .row .col-xl .stat p {
+    font-size: 16px;
+	}
+  	.statistic .container .row .col-xl .stat i {
+	    margin: 10px auto;
+	    height: 40px;
+	    width: 40px;
+	    line-height: 40px;
+	}
+	.statistic .container .row::before {
+		top: 40%;
+	}
+  	.tweet{
+  		height: 300px;
+  	}
+  	.tweet .container .heading {
+    top: 0;
+	}	
+	.tweet .container p {
+    font-size: 16px;
+    padding: 0 7%;
+    top: 55%;
+	}
+
+	.touch .container p {
+   		width: 100%;
+   	}
+   	.touch .container form .row .mb-4 label {
+    	font-size: 17px;
+    }
+    .touch .container form .row .mb-4 button{
+    	font-size: 17px;
+    	padding: 5px 7px;
+    }
+    .map .container-fluid address p {
+    font-size: 12px;
+	}
+	
+  	
+}
+
+@media (max-width: 270px){}
